@@ -1,0 +1,26 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Widget file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: الملف المحدد فشل في اختبار الرفع.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/confirm/wordpress
+Data file = not defined!
+Widget file = not defined!
+Customizer file = C:\wamp\www\confirm\wordpress/wp-content/uploads/2021/02/one-click-demo-import.2.6.1.zip
+Redux files:
+not defined!
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+

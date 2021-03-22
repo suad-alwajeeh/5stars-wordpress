@@ -1,0 +1,26 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/confirm/wordpress
+Data file = not defined!
+Widget file = C:\wamp\www\confirm\wordpress/wp-content/uploads/2021/02/newscard-default-3.zip
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Error: Widget import data could not be read. Please try a different file.
+
+---pt-ocdi/after_import---
+

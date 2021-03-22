@@ -1,0 +1,68 @@
+
+---Upload files---
+Redux file was not uploaded. Error: الملف المحدد فشل في اختبار الرفع.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/confirm/wordpress
+Data file = C:\wamp\www\confirm\wordpress/wp-content/uploads/2021/02/newscard.xml
+Widget file = C:\wamp\www\confirm\wordpress/wp-content/uploads/2021/02/newscard.wie
+Customizer file = C:\wamp\www\confirm\wordpress/wp-content/uploads/2021/02/newscard.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+بحث - No Title - Widget already exists
+TH: Recent Posts - No Title - Imported
+تصنيفات - Categories - Imported
+
+Left Sidebar : 
+
+بحث - No Title - Imported
+TH: Recent Posts - No Title - Imported
+تصنيفات - Categories - Imported
+
+Front Page Content Section : 
+
+TH: Horizontal/Vertical Posts - No Title - Imported
+TH: Card/Block Posts - No Title - Imported
+TH: Horizontal/Vertical Posts - No Title - Imported
+TH: Card/Block Posts - No Title - Imported
+TH: Horizontal/Vertical Posts - No Title - Imported
+
+Front Page Sidebar Section : 
+
+TH: Horizontal/Vertical Posts - No Title - Imported
+TH: Recent Posts - No Title - Imported
+
+Footer - Column 1 : 
+
+HTML مخصص - NewsCard - Imported
+
+Footer - Column 2 : 
+
+معرض - Gallery - Imported
+
+Footer - Column 3 : 
+
+تصنيفات - Categories - Imported
+
+Footer - Column 4 : 
+
+TH: Recent Posts - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
